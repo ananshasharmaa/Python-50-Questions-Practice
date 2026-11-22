@@ -1,2 +1,9 @@
-# Python-50-Questions-Practice
-pandas numpy matplotlib abd seaborn scipy sqlalchemy openpyxl Scikit-learn
+# Python-Mini-Projects
+Pandas
+numpy
+matplotlib
+seaborn
+scipy
+sqlalchemy
+openpyxl 
+Scikit-learn
