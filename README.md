@@ -1,4 +1,5 @@
 # Python-Libraries-Mini-Project
+This repository contains a collection of mini projects for each of the following libraries in python that are important for analysing data.
 Pandas 
 Data Cleaning using Pandas
 Dataset: https://www.kaggle.com/datasets/emreksz/data-scientist-job-roles-in-uk
